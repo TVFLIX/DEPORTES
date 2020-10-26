@@ -38,3 +38,7 @@ https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title="PREMIER LEAGUE",CANAL 2
 https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
+
+REGGAETTON
+#EXTINF:-1 group-title="REGGAETTON",
+https://youtu.be/ULvIoY3nIag
