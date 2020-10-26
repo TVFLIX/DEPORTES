@@ -31,6 +31,8 @@ https://cdn2.dailysport.pw/22/22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title="LALIGA SMARTBANK",CANAL 2
 https://cdn2.dailysport.pw/23/23.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title="GOL TV",CANAL 2
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6c3feedae5a742eba4ae35328aae667d/chunklist_b4628000.m3u8
 
 PREMIER LEAGUE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title="PREMIER LEAGUE",CANAL 1
@@ -38,7 +40,3 @@ https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title="PREMIER LEAGUE",CANAL 2
 https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
-
-REGGAETTON
-#EXTINF:-1 group-title="REGGAETTON",Only Fans Remix (Audio Oficial) - Lunay, Myke Towers, Jhay Cortez, Arcangel, Darell, Brray...
-https://www.youtube.com/watch?v=ULvIoY3nIag&ab_channel=YoungMartino
