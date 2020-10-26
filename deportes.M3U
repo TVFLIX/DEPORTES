@@ -24,6 +24,10 @@ https://cdn2.dailysport.pw/7/7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title="LALIGA",CANAL 8
 https://cdn2.dailysport.pw/8/8.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title="LALIGA",GOL TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6c3feedae5a742eba4ae35328aae667d/chunklist_b4628000.m3u8
+
+
 LaLiga Smartbank
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title="LALIGA SMARTBANK",CANAL 1
 https://cdn2.dailysport.pw/22/22.m3u8
@@ -31,7 +35,7 @@ https://cdn2.dailysport.pw/22/22.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title="LALIGA SMARTBANK",CANAL 2
 https://cdn2.dailysport.pw/23/23.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title="GOL TV",CANAL 2
+#EXTINF:-1 tvg-logo="https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title="LALIGA SMARTBANK",GOL TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6c3feedae5a742eba4ae35328aae667d/chunklist_b4628000.m3u8
 
 PREMIER LEAGUE
