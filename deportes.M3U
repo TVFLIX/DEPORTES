@@ -1,46 +1,9 @@
 # EXTM3U
-LA LIGA
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 1
-https://cdn2.dailysport.pw/1/1.m3u8
+CHAMPIONS LEAGUE
+#EXTINF: -1 tvg-logo = "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&transparent=true&w=288&h=288" group-title = "CHAMPIONS LEAGUE" , REAL MADRID 1
+https://e10.habrox.xyz/ingestx/887/rata/0fxbayxx.ts
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 2
-https://cdn2.dailysport.pw/2/2.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 3
-https://cdn2.dailysport.pw/3/3.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 4
-https://cdn2.dailysport.pw/4/4.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 5
-https://cdn2.dailysport.pw/5/5.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 6
-https://cdn2.dailysport.pw/6/6.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 7
-https://cdn2.dailysport.pw/7/7.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 8
-https://cdn2.dailysport.pw/8/8.m3u8
-
-#EXTINF: -1 tvg-logo = "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title = "LALIGA", GOL TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6c3feedae5a742eba4ae35328aae667d/chunklist_b4628000.m3u8
+#EXTINF: -1 tvg-logo = "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&transparent=true&w=288&h=288" group-title = "CHAMPIONS LEAGUE" , REAL MADRID 2
+https://akamai2-me.cdn.booyah.live/hls/113138/28757085.m3u8
 
 
-LaLiga Smartbank
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title = "LALIGA SMARTBANK" , CANAL 1
-https://cdn2.dailysport.pw/22/22.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title = "LALIGA SMARTBANK" , CANAL 2
-https://cdn2.dailysport.pw/23/23.m3u8
-
-#EXTINF: -1 tvg-logo = "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title = "LALIGA SMARTBANK", GOL TV
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hmed.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aG1lZC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIzNy4xMS4zLjE5Mi8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMzkwNDE1MH19fV19&Signature=f0J05hheEte8~34IiDOl7As5D0ocyxelNyjSwuBFtZxV3HW71AlizBCb0Smp0oqv7CuGBSTgdabs26XbYfpDfDjEYn1Erpq18jvTjtTRS3acedUS0lVBIJP~bOmBZ7S-HMQWhAWRTlK3Hwh1GUM0E161Ysu0yOP3y2Eg0XtBlCEi-RfioAbTjcshINcH4Wf7zjj63FzqWFP~g5crGyAH5ZQV7Bo6Ri3TmTK1jCccSWKmIxzzvZQveoNSesG8TMAYy97A0ES~0EhNTse08cgisWZK0CZvciHU8Kre4XZbE8IeRoiMPWywi2H2UsrWaGX1kQcm0kqra0IVyHglvgmO7Q__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-LIGA PREMIER
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title = "PREMIER LEAGUE" , CANAL 1
-https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title = "PREMIER LEAGUE" , CANAL 2
-https://storage.googleapis.com/dailyseg3/epl1/1.m3u8
