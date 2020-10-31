@@ -24,19 +24,11 @@ https://storage.googleapis.com/dailysp6/7/7.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 8
 https://storage.googleapis.com/dailysp6/8/8.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title = "LALIGA", GOL TV
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh20201031T124507_2946596.ts
-
 
 LaLiga Smartbank
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title = "LALIGA SMARTBANK" , CANAL 1
-https://cdn.dailysport.pw/22/22.m3u8
+https://cdn2.dailysport.pw/6/6.m3u8
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/1200px-LaLiga_SmartBank.svg.png" group-title = "LALIGA SMARTBANK" , CANAL 2
-https://cdn.dailysport.pw/23/23.m3u8
-
-#EXTINF: -1 tvg-logo = "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/03/21/ECDIMA20160321_0022_1.png" group-title = "LALIGA SMARTBANK", GOL TV
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh20201031T124507_2946596.ts
 
 LIGA PREMIER
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/ca/thumb/9/93/Logotip_Premier_League.svg/1200px-Logotip_Premier_League.svg.png" group-title = "PREMIER LEAGUE" , CANAL 1
