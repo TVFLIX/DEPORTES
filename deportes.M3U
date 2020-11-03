@@ -29,12 +29,8 @@ https://cdn2.dailysport.pw/8/8.m3u8
 FM 1
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" título-grupo = "FORMULA 1", CANAL 1
 https://cdn2.dailysport.pw/15/15.m3u8
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" título-grupo = "FORMULA 1", CANAL 2
-https://storage.googleapis.com/dailyb/10/10.m3u8
-
-LIGA ENDESA
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png" título-grupo = "LIGA ENDESA", CANAL 1
-https://cdn2.dailysport.pw/16/16.m3u8
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png" título-grupo = "LIGA ENDESA", CANAL 2
-https://cdn2.dailysport.pw/15/15.m3u8
-
+Champions League
+#EXTINF: -1 group-title = "CHAMPIONS LEAGUE", REAL MADRID VS INTER
+https://cdn2.dailysport.pw/1/1.m3u8
+#EXTINF: -1 group-title = "CHAMPIONS LEAGUE", CANAL 1
+https://cdn2.dailysport.pw/1/1.m3u8
