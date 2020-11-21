@@ -4,7 +4,7 @@ LA LIGA
 https://cdn1.dailysport.live/1/1.m3u8
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title = "LALIGA", CANAL 2
-https://cdn2.dailysport.pw/1/1.m3u8
+https://manifest-gce-us-east4-production.fastly.mux.com/5sjzDUnlHo1YHV84ABCDCBw01HREmmR4etpYYmyMNrr2lN25ABLWgp7XHr6mlK127fYm47jymupw/rendition.m3u8?cdn=highwinds&expires=1606579200&skid=default&live=1&signature=NWZjMjc0MDBfMzM0MWQ3OWYwZDVjYzZkZDRhNzg1MGYyY2E5MWY5ZDE5NzZhNDk3NWE1MzU5NzA5MWJmYzVlNjk2ZTRjZDAxMA==
 
 
 LaLiga Smartbank
