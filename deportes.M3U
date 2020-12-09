@@ -34,3 +34,17 @@ Champions League
 https://cdn.dailysport.cloud/1/1.m3u8
 #EXTINF: -1 group-title = "CHAMPIONS LEAGUE", CANAL 1
 https://cdn.dailysport.cloud/1/1.m3u8
+
+#EXTINF: -1 goup-title = "CHAMPIONS LEAGUE", REAL MADRID VS GLADBACH IRRAFLE
+https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+
+#EXTINF: -1 goup-title = "CHAMPIONS LEAGUE", REAL MADRID VS GLADBACH IRRAFLE 2
+https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/ed08fc25-52bc-43dd-ba51-31e55c9d927c:BRU/variant/b111f3eec6847e22e0415df546f666ea/bandwidth/400000.m3u8?hdntl=exp=1607630054~acl=*~id=b638281d-7471-42ec-9ee8-8679f63497bb~data=hdntl~hmac=68f0d23bfc9621a129f7120af9a2dbd0e7ddffbfcef81d0fe56bb3f9acb74a1d
+
+
+#EXTINF: -1 goup-title = "CHAMPIONS LEAGUE", REAL MADRID VS GLADBACH IRRAFLE 3
+https://storage.googleapis.com/dailycl4/2/2.m3u8
+
+#EXTINF: -1 goup-title = "CHAMPIONS LEAGUE", REAL MADRID VS GLADBACH IRRAFLE 4
+https://storage.googleapis.com/dailycl4/epl2/2.m3u8
+
